@@ -1,0 +1,20 @@
+Atlas Enterprise v0.3.0
+Build date: 2026-07-22
+Commit: 108a204
+Files: 64
+
+Delivered:
+- Organization detail workspace
+- Facility creation interface
+- Department creation with optional facility scope
+- Tenant-aware API client
+- Organization audit activity endpoint
+- Activity timeline
+- OpenAPI 3.1 contract update
+- Sprint 001.3 implementation specification
+
+Validation:
+- OpenAPI YAML parsed successfully
+- package.json parsed successfully
+- Frontend build was attempted but dependencies could not be installed in the execution environment
+- Backend build was not run because the .NET SDK is unavailable in the execution environment
